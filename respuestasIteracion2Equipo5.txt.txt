@@ -1,0 +1,27 @@
+a) mediante comandos no pudimos.
+b) Si se puede
+c) No se puede
+d) Depende de como lo hagas, yo no los perdi
+e)Pedro Señeriz:
+
+Hice fork del repositorio de beta
+git clone de mi repositorio
+Modifique el archivo de texto
+git add .
+git commit
+git push
+Para actualizar mi repositorio al estado de Beta lo hice por la UI de git.
+En mi repositorio toque “compare”
+Cambie los datos de comparación para hacer un pull request de su repositorio al mio
+hice un merge commit para conservar mis commits y copiar los de él. Agregue el commit y le di confirmar.
+
+Juan Cruz Muñoz:
+
+Hice el fork del repositorio original, lo descargue como usuario, realize las modificaciones y lo subi por "Upload files"
+
+Para actualizar utilice "compare" e hice una comparacion "manualmente" entre mi fork y el repositorio de beta
+
+Tomas Martinez:
+
+Cree el repositorio junto con el readme y datos.txt. Invite como colaboradores a Pedro Señeriz y Juan Cruz Muñoz. Luego cree el archivo NuevoDato.txt
+y lo subi por "Upload files". Al finalizar cree el archivo RespuestasIteracionesEquipo5.txt y adjunte las respuestas, luego lo subi nuevamente por "upload files". 
